@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lucopdev <h1>
+#- 👋 Hi, I’m __@lucopdev__ <h1>
 - 👀 I’m interested in LEARN and WORK with programing
 - 🌱 I’m currently learning NodeJS
 - 💞️ I’m looking to collaborate on Everything i can
