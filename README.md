@@ -1,4 +1,4 @@
-<h4>- 👋 Hi, I’m __@lucopdev__</h4>
+<h4>- 👋 Hi, I’m **@lucopdev**</h4>
 <p>- 👀 I’m interested in LEARN and WORK with programing</p>
 <p>- 🌱 I’m currently learning NodeJS</p>
 <p>- 💞️ I’m looking to collaborate on Everything i can</p>
