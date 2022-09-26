@@ -4,6 +4,6 @@
 <p>- 💞️ I’m looking to collaborate on Everything i can</p>
 <p>- 📫 How to reach me https://www.linkedin.com/in/lucas-s-rosa-50829383/</p> 
 
-<img src="https://images.emojiterra.com/google/noto-emoji/v2.034/128px/1f468-1f4bb.png>
+<img src="https://images.emojiterra.com/google/noto-emoji/v2.034/128px/1f468-1f4bb.png">
 
 
