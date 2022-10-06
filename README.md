@@ -10,8 +10,12 @@
   <strong>PORTFOLIO</strong> - <a href="https://lucopdev.github.io/portfolio/index.html" target="_blank">LucoDev GITHUB PAGE</a>
   </div>
   
+  <div display="inline-table">
+  <strong>EXERCÍCIOS NO </strong><a href="https://replit.com/@lucopunk" target="_blank">REPL.IT
+  </div>
   
   <div display="inline-table">
   <img src="https://images.emojiterra.com/google/noto-emoji/v2.034/128px/1f468-1f4bb.png" width="100">
   </div>
-
+  
+  
