@@ -18,4 +18,4 @@
   <img src="https://images.emojiterra.com/google/noto-emoji/v2.034/128px/1f468-1f4bb.png" width="100" target="_blank">
   </div>
   
-  [![Lucas' GitHub stats](https://github-readme-stats.vercel.app/api?username=lucopdev&theme=onedark)](https://github.com/lucopdev/github-readme-stats)
+  [![Lucas' GitHub stats](https://github-readme-stats.vercel.app/api?username=lucopdev&theme=onedark&show_icons=true)](https://github.com/lucopdev/github-readme-stats)
