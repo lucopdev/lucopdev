@@ -20,3 +20,5 @@
   <a href="https://replit.com/@lucopunk"><img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white"></a>
 
   ![Snake animation](https://github.com/lucopdev/lucopdev/blob/output/github-contribution-grid-snake.svg)
+  ![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
+  ![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
