@@ -12,8 +12,8 @@
   <BR>
   
   <div>
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=lucopdev&theme=dark&show_icons=true)](https://github.com/lucopdev/github-readme-stats">  
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucopdev&layout=compact&theme=dark&show_icons=true)](https://github.com/lucopdev/github-readme-stats">
+  <img width="250px" height="180px" src="https://github-readme-stats.vercel.app/api?username=lucopdev&theme=dark&show_icons=true)](https://github.com/lucopdev/github-readme-stats">  
+  <img width="250px" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucopdev&layout=compact&theme=dark&show_icons=true)](https://github.com/lucopdev/github-readme-stats">
   </div>
   
   <a href="https://www.linkedin.com/in/lsrdev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
