@@ -6,12 +6,13 @@
   <br>
   
   <div display="inline-table">
-  <strong>WEBSITE PORTFOLIO</strong> - <a href="https://lucopdev.github.io/portfolio/index.html" target="_blank">LucoDev GITHUB PAGE</a>
+  <strong>Take a look on my </strong> - <a href="https://lucopdev.github.io/portfolio/index.html" target="_blank">PORTFOLIO!</a>
   </div>
   
   <div display="inline-table">
   <img src="https://images.emojiterra.com/google/noto-emoji/v2.034/128px/1f468-1f4bb.png" width="100" target="_blank">
   </div>
+  <BR>
   
   [![Lucas' GitHub stats](https://github-readme-stats.vercel.app/api?username=lucopdev&theme=onedark&show_icons=true)](https://github.com/lucopdev/github-readme-stats)
   
