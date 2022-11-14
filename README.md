@@ -11,10 +11,6 @@
   </div>
   
   <div display="inline-table">
-  <strong>SOME SOLVED EXERCISES ON </strong><a href="https://replit.com/@lucopunk" target="_blank">REPLIT
-  </div>
-  
-  <div display="inline-table">
   <img src="https://images.emojiterra.com/google/noto-emoji/v2.034/128px/1f468-1f4bb.png" width="100" target="_blank">
   </div>
   
