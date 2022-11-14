@@ -1,9 +1,8 @@
 ## <span>👋 Hi, I’m **Lucas**</span>
   
   - 👀 I’m interested in LEARN and WORK with programing
-  - 🌱 I’m currently learning NodeJS
+  - 🌱 I’m currently learning front-end development
   - 💞️ I’m looking to collaborate on Everything i can
-  - 📫 How to reach me: -> <a href="https://www.linkedin.com/in/lsrdev/" target="_blank">My Linkedin</a>
   <br>
   
   <div display="inline-table">
