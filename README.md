@@ -18,3 +18,5 @@
   
   <a href="https://www.linkedin.com/in/lsrdev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://replit.com/@lucopunk"><img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white"></a>
+
+  ![Snake animation](https://github.com/lucopdev/lucopdev/blob/output/github-contribution-grid-snake.svg)
