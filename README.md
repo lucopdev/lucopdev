@@ -1,4 +1,4 @@
-## <span>👋 Hi, I’m **@lucopdev**</span>
+## <span>👋 Hi, I’m **Lucas**</span>
   
   - 👀 I’m interested in LEARN and WORK with programing
   - 🌱 I’m currently learning NodeJS
