@@ -7,11 +7,11 @@
   <br>
   
   <div display="inline-table">
-  <strong>PORTFOLIO</strong> - <a href="https://lucopdev.github.io/portfolio/index.html" target="_blank">LucoDev GITHUB PAGE</a>
+  <strong>WEBSITE PORTFOLIO</strong> - <a href="https://lucopdev.github.io/portfolio/index.html" target="_blank">LucoDev GITHUB PAGE</a>
   </div>
   
   <div display="inline-table">
-  <strong>EXERCÍCIOS NO </strong><a href="https://replit.com/@lucopunk" target="_blank">REPL.IT
+  <strong>SOME SOLVED EXERCISES ON </strong><a href="https://replit.com/@lucopunk" target="_blank">REPLIT
   </div>
   
   <div display="inline-table">
