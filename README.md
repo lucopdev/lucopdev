@@ -7,7 +7,7 @@
 <br>
   
 <strong>Take a look on my </strong> - <a href="https://lucopdev.github.io/portfolio/index.html" target="_blank">PORTFOLIO!</a><br>
-<strong>(under construction) Take a look on my </strong> - <a href="https://lucopdev.github.io/Portifolio-Trybe" target="_blank">TRYBE PORTFOLIO!</a>
+<strong>Take a look on my </strong> - <a href="https://lucopdev.github.io/Portifolio-Trybe" target="_blank">TRYBE PORTFOLIO!</a> (under construction)
 
   
 <img src="https://images.emojiterra.com/google/noto-emoji/v2.034/128px/1f468-1f4bb.png" width="100"><br>
