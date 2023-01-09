@@ -30,4 +30,4 @@
 <a href="https://replit.com/@lucopunk"><img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white"></a>
 </div>
 
-![GitHub Snake dark](https://github.com/lucopdev/lucopdev/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
+![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
