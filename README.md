@@ -31,3 +31,7 @@
 </div>
 
 ![Snake animation](https://github.com/lucopdev/lucopdev/blob/output/github-contribution-grid-snake.svg)
+
+<source media="(prefers-color-scheme: dark)" src="https://github.com/lucopdev/lucopdev/blob/output/github-contribution-grid-snake.svg"/>
+
+
