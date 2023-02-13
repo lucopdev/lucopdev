@@ -13,10 +13,10 @@
 <img src="https://images.emojiterra.com/google/noto-emoji/v2.034/128px/1f468-1f4bb.png" width="100"><br>
   
 <div>
-    <img width="400px" height="180px" src="https://github-readme-stats.vercel.app/api?username=lucopdev&theme=transparent&show_icons=true)](https://github.com/lucopdev/github-readme-stats">  
-    <img width="400px" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucopdev&layout=compact&theme=transparent&show_icons=true)](https://github.com/lucopdev/github-readme-stats">
+    <img width="400px" height="180px" src="https://github-readme-stats.vercel.app/api?username=lucopdev&theme=transparent&show_icons=true)(https://github.com/lucopdev/github-readme-stats">  
+    <img width="400px" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucopdev&layout=compact&theme=transparent&show_icons=true)(https://github.com/lucopdev/github-readme-stats">
 </div><br>
-  
+    
 <div style="display: inline_block">
   <img align="center" alt="Dev-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
   <img align="center" alt="Dev-HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
