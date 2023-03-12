@@ -18,6 +18,11 @@
 </div><br>
     
 <div style="display: inline_block">
+<!--   <img align="center" alt="Dev-Github" height="30" width="40" src=/> -->
+  
+           
+  <img align="center" alt="Dev-Unix" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unix/unix-original.svg"/>   
+  <img align="center" alt="Dev-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>             
   <img align="center" alt="Dev-HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
   <img align="center" alt="Dev-Css3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
   <img align="center" alt="Dev-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
@@ -29,6 +34,7 @@
 <div>
 <a href="https://www.linkedin.com/in/lsrdev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">   </a>
 <a href="https://replit.com/@lucopunk"><img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white"></a>
+
 </div>
 
 ![Snake animation](https://github.com/lucopdev/lucopdev/blob/output/github-contribution-grid-snake.svg)
