@@ -17,7 +17,7 @@
     <img width="400px" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucopdev&layout=compact&theme=transparent&show_icons=true)(https://github.com/lucopdev/github-readme-stats">
 </div><br>
     
-<div style="display: inline_block">
+<div style="display: inline_block; margin: 0, 50px">
 <!--   <img align="center" alt="Dev-Github" height="30" width="40" src=/> -->
   
  
