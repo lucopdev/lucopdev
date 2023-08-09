@@ -4,6 +4,7 @@
   - 🌱 I’m currently learning front-end development
   - 💞️ I’m looking to collaborate on Everything i can
 
+<strong>If you need to contact me, send me an Email:</strong> lucopdev@gmail.com
 <br>
   
 <strong>Take a look on my </strong> - <a href="https://lucopdev.github.io/portfolio/index.html" target="_blank">PORTFOLIO!</a><br>
