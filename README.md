@@ -1,7 +1,7 @@
 ## <span>👋 Hi, I’m **Lucas**</span>
   
   - 👀 I’m interested in LEARN and WORK with programing
-  - 🌱 I’m currently learning Python and Java
+  - 🌱 I’m currently learning Laravel and Flutter
   - 💞️ I’m looking to collaborate on Everything i can
 
 <strong>If you need to contact me, send me an Email:</strong> lucopdev@gmail.com
