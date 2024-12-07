@@ -8,7 +8,7 @@
 <br>
   
 <strong>Take a look on my </strong> - <a href="https://lucopdev.github.io/portfolio/index.html" target="_blank">PORTFOLIO!</a><br>
-<strong>Take a look on my </strong> - <a href="https://lucassrosa.surge.sh/" target="_blank">Uninter portifólio!</a>
+<strong>Take a look on my </strong> - <a href="https://lucassrosa.surge.sh/" target="_blank">Uninter portifólio!</a><br>
 <strong>Take a look on my </strong> - <a href="https://lucopdev.surge.sh/" target="_blank">NEW PORTFOLIO!</a> (under construction)
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lsrdev/) 
